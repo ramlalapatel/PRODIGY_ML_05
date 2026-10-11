@@ -1,0 +1,6 @@
+{
+  "name": "Food-101 Classifier & Calorie Estimator",
+  "description": "End-to-end Machine Learning project and interactive application for recognizing 101 food categories and estimating calorie content with diet tracking, transfer learning, and complete Colab/Kaggle notebook export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
