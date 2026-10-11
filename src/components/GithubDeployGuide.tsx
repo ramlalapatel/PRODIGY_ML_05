@@ -13,7 +13,7 @@ import {
 
 export const GithubDeployGuide: React.FC = () => {
   const [username, setUsername] = useState('your-github-username');
-  const [repoName, setRepoName] = useState('food101-calorie-estimator');
+  const [repoName, setRepoName] = useState('PRODIGY_ML_05');
   const [copiedIndex, setCopiedIndex] = useState<number | null>(null);
 
   const cleanUser = username.trim() || 'your-github-username';
